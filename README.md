@@ -8,7 +8,7 @@ To Run this project download the repo, and from within the Server file run <br>
 <br>
 `python3 server.py`<br>
 <br> 
-And open the browser to ...
+And open the browser to http://localhost:8080
 
 *image*
 
